@@ -1,0 +1,1 @@
+This folder contains, among other things, the measurement data from the individual scenarios / classes.
