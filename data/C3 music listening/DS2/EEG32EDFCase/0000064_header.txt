@@ -1,0 +1,2 @@
+Version,Subject,Recording,Startdate,Startime,Bytes,Reserved,NumRec,Duration,NumSig
+0       ,0000064                                                                         ,Copyright 10-March-2013                                                         ,01.04.13,11.12.13,8448    ,                                            ,356,1       ,32
